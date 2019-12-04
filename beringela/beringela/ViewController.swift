@@ -10,9 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBAction func adicionar(){
-        print("Item Adicionado!")
+    @IBAction func add(_ sender: Any) {
+        let nome = "Hamburguer"
+        let felicidae = "8"
+        print("Item Adicionado \(nome), NOTA: \(felicidae)")
     }
-
 }
 

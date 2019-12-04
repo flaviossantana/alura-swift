@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a48f64cb-f7fd-41a0-9ecd-b3e0c3b28a3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,6 +31,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -53,8 +55,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,6 +87,7 @@
       <workItem from="1575418104593" duration="490000" />
       <workItem from="1575418838210" duration="76000" />
       <workItem from="1575420311100" duration="66000" />
+      <workItem from="1575422364847" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="LIMPANDO">
       <created>1575418174080</created>
@@ -123,16 +124,23 @@
       <option name="project" value="LOCAL" />
       <updated>1575420363197</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="SWITFT PARTE 01 - 01 - INTRODUCAO - 04 CONECTANDO A INTERFACE AO CODIGO IBACTION">
+      <created>1575422418782</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575422418782</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="632000" />
+    <option name="totallyTimeSpent" value="714000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1004" height="705" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25987527" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26507276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -171,6 +179,7 @@
     <MESSAGE value="LIMPANDO" />
     <MESSAGE value="SWITFT PARTE 01 - 01 - INTRODUCAO - 02 NOSSA PRIMEIRA APP E VIEWCONTROLER DE REFEICAO" />
     <MESSAGE value="SWITFT PARTE 01 - 01 - INTRODUCAO - 03 BOAS PRATICAS EM VIEW COM PLACEHOLDER E KEYBOARD" />
-    <option name="LAST_COMMIT_MESSAGE" value="SWITFT PARTE 01 - 01 - INTRODUCAO - 03 BOAS PRATICAS EM VIEW COM PLACEHOLDER E KEYBOARD" />
+    <MESSAGE value="SWITFT PARTE 01 - 01 - INTRODUCAO - 04 CONECTANDO A INTERFACE AO CODIGO IBACTION" />
+    <option name="LAST_COMMIT_MESSAGE" value="SWITFT PARTE 01 - 01 - INTRODUCAO - 04 CONECTANDO A INTERFACE AO CODIGO IBACTION" />
   </component>
 </project>

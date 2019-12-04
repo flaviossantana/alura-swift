@@ -46,7 +46,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Adicionar"/>
                                 <connections>
-                                    <action selector="adicionar" destination="BYZ-38-t0r" eventType="touchUpInside" id="B8A-9I-x9k"/>
+                                    <action selector="add:" destination="BYZ-38-t0r" eventType="touchUpInside" id="IRz-2T-JiI"/>
                                 </connections>
                             </button>
                         </subviews>
