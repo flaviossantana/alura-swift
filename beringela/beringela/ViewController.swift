@@ -10,9 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet var nomeTF: UITextField!
+    @IBOutlet weak var felicidadeTF: UITextField!
+    
     @IBAction func add(_ sender: Any) {
-        let nome = "Hamburguer"
-        let felicidae = "8"
+        let nome = nomeTF.text
+        let felicidae = felicidadeTF.text
         print("Item Adicionado \(nome), NOTA: \(felicidae)")
     }
 }

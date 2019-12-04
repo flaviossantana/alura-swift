@@ -31,7 +31,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -55,6 +54,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -88,6 +88,7 @@
       <workItem from="1575418838210" duration="76000" />
       <workItem from="1575420311100" duration="66000" />
       <workItem from="1575422364847" duration="82000" />
+      <workItem from="1575423488118" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="LIMPANDO">
       <created>1575418174080</created>
@@ -131,16 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1575422418782</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="01 - SWITFT PARTE - 01 - INTRODUCAO - 05 - VARIAVEIS INTERPOLACAO E TIPAGEM IMPLICITA E EXPLICITA">
+      <created>1575423565313</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575423565313</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="714000" />
+    <option name="totallyTimeSpent" value="802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1004" height="705" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26507276" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27027026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -180,6 +188,7 @@
     <MESSAGE value="SWITFT PARTE 01 - 01 - INTRODUCAO - 02 NOSSA PRIMEIRA APP E VIEWCONTROLER DE REFEICAO" />
     <MESSAGE value="SWITFT PARTE 01 - 01 - INTRODUCAO - 03 BOAS PRATICAS EM VIEW COM PLACEHOLDER E KEYBOARD" />
     <MESSAGE value="SWITFT PARTE 01 - 01 - INTRODUCAO - 04 CONECTANDO A INTERFACE AO CODIGO IBACTION" />
-    <option name="LAST_COMMIT_MESSAGE" value="SWITFT PARTE 01 - 01 - INTRODUCAO - 04 CONECTANDO A INTERFACE AO CODIGO IBACTION" />
+    <MESSAGE value="01 - SWITFT PARTE - 01 - INTRODUCAO - 05 - VARIAVEIS INTERPOLACAO E TIPAGEM IMPLICITA E EXPLICITA" />
+    <option name="LAST_COMMIT_MESSAGE" value="01 - SWITFT PARTE - 01 - INTRODUCAO - 05 - VARIAVEIS INTERPOLACAO E TIPAGEM IMPLICITA E EXPLICITA" />
   </component>
 </project>
