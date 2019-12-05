@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a48f64cb-f7fd-41a0-9ecd-b3e0c3b28a3f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beringela/beringela.xcodeproj/project.xcworkspace/xcuserdata/flaviosantana.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/beringela/beringela.xcodeproj/project.xcworkspace/xcuserdata/flaviosantana.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beringela/beringela/Refeicao/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/beringela/beringela/Refeicao/ViewController.swift" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +20,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="10" />
     <option name="y" value="43" />
     <option name="width" value="1004" />
@@ -92,7 +90,7 @@
       <workItem from="1575422364847" duration="82000" />
       <workItem from="1575423488118" duration="88000" />
       <workItem from="1575425567054" duration="36000" />
-      <workItem from="1575503340395" duration="860000" />
+      <workItem from="1575503340395" duration="1468000" />
     </task>
     <task id="LOCAL-00001" summary="LIMPANDO">
       <created>1575418174080</created>
@@ -164,16 +162,23 @@
       <option name="project" value="LOCAL" />
       <updated>1575506031516</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="01 - SWITFT PARTE - 06 - ORGANIZANDO O PPROJETO - 02 - UTILIZANDO ORIENTACAO A OBJETOS">
+      <created>1575506939687</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575506939687</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1698000" />
+    <option name="totallyTimeSpent" value="2306000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="43" width="1004" height="705" extended-state="0" />
+    <frame x="0" y="0" width="1024" height="768" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="1.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.9796334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
