@@ -10,13 +10,29 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet var nomeTF: UITextField!
-    @IBOutlet weak var felicidadeTF: UITextField!
-    
+    @IBOutlet var nomeTF: UITextField?
+    @IBOutlet var felicidadeTF: UITextField?
+    	
     @IBAction func add(_ sender: Any) {
-        let nome = nomeTF.text
-        let felicidae = felicidadeTF.text
-        print("Item Adicionado \(nome), NOTA: \(felicidae)")
+        let refeicao = Refeicao(nome: self.nome(), felicidade: self.felicidade())
+        print("Item Adicionado \(refeicao.nome), NOTA: \(refeicao.felicidade)")
     }
+    
+    private func nome() -> String {
+        if let nome = nomeTF?.text {
+            return nome;
+        }
+        return ""
+    }
+    
+    private func felicidade() -> Int {
+        if let felicidadeText = felicidadeTF?.text {
+            if let felicidade = Int(felicidadeText) {
+                return felicidade
+            }
+        }
+        return 0
+    }
+    
 }
 
