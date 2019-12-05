@@ -14,17 +14,19 @@ class ViewController: UIViewController {
     @IBOutlet var felicidadeTF: UITextField?
     	
     @IBAction func add(_ sender: Any) {
-        let refeicao = Refeicao(nome: self.nome(), felicidade: self.felicidade())
+        
+        guard let nome = nomeTF?.text else {
+            return
+        }
+        
+        guard let felicidadeText = felicidadeTF?.text, let felicidade = Int(felicidadeText) else {
+            return
+        }
+        
+        let refeicao = Refeicao(nome: nome, felicidade: felicidade	)
         print("Item Adicionado \(refeicao.nome), NOTA: \(refeicao.felicidade)")
     }
-    
-    private func nome() -> String {
-        if let nome = nomeTF?.text {
-            return nome;
-        }
-        return ""
-    }
-    
+        
     private func felicidade() -> Int {
         if let felicidadeText = felicidadeTF?.text {
             if let felicidade = Int(felicidadeText) {
